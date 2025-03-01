@@ -1,0 +1,165 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "ff2097b9-18f0-4f1b-b5ae-e544c933f457")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 17.78 17.399)
+		(size 42.926 32.766)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2d2ea07a-5a04-42b7-81bf-161e4b2ced6d")
+		(property "Sheetname" "Charger"
+			(at 17.78 16.6874 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Boost_Buck_Charger.kicad_sch"
+			(at 17.78 50.7496 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "v241218_Octopus_VerA1"
+				(path "/ff2097b9-18f0-4f1b-b5ae-e544c933f457"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 156.972 17.78)
+		(size 28.702 33.274)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "40ad7420-915d-46b5-8b8e-f242e0d1f34b")
+		(property "Sheetname" "uController"
+			(at 156.972 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 156.972 51.6386 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "v241218_Octopus_VerA1"
+				(path "/ff2097b9-18f0-4f1b-b5ae-e544c933f457"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 64.262 17.399)
+		(size 45.466 32.893)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "dba73e43-fb45-4809-b6cb-4e4f9073e894")
+		(property "Sheetname" "Buck_AuxSupply"
+			(at 64.262 16.6874 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Buck_AuxSupply.kicad_sch"
+			(at 64.262 50.8766 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "v241218_Octopus_VerA1"
+				(path "/ff2097b9-18f0-4f1b-b5ae-e544c933f457"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 111.76 17.78)
+		(size 43.18 33.02)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e6af6ac6-6a48-42d6-b31d-dc24de07c7f0")
+		(property "Sheetname" "BMS"
+			(at 111.76 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BMS.kicad_sch"
+			(at 111.76 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "v241218_Octopus_VerA1"
+				(path "/ff2097b9-18f0-4f1b-b5ae-e544c933f457"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
